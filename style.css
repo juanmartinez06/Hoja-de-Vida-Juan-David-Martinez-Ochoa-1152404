@@ -46,7 +46,6 @@
     margin-bottom: 8px;
   }
   
-  /* Habilidades con estilo de etiquetas */
   .skills li {
     display: inline-block;
     background: #4CAF50;
@@ -63,4 +62,5 @@
     font-size: 14px;
     color: #777;
   }
+
   
